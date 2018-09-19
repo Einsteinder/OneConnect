@@ -1,5 +1,9 @@
 # OneConnect
 A web app to show users, detail of users and also to search user.
+
+## Demo
+
+http://18.209.20.167:8080/
 ## Getting Started
 
 ### Prerequisites
