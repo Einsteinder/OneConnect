@@ -7,6 +7,7 @@ http://18.209.20.167:8080/
 ## Getting Started
 
 ### Prerequisites
+Node and Npm: Follow this [link](https://nodejs.org/en/) to install the latest versions.
 
 Need create a `.env` file under root which includes:
 ```
