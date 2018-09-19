@@ -13,7 +13,6 @@ Need create a `.env` file under root which includes:
 DB_HOST=
 DB_USER=
 DB_PASS=
-PORT=
 ```
 
 ### Installing
